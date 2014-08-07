@@ -2,7 +2,7 @@ require "formula"
 
 class Fig < Formula
   homepage "http://orchardup.github.io/fig/"
-  url "https://github.com/orchardup/fig/archive/0.5.1.tar.gz"
+  url "https://github.com/orchardup/fig/archive/0.5.2.tar.gz"
   sha1 "38b03a7d823ab3b2662c9c6ada503e28c35e122c"
 
   bottle do
